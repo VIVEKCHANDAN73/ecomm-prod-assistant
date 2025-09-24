@@ -2,6 +2,17 @@ uv pip list
 uv python list
 uv python install cpython-3.10.18-windows-x86_64-none   
 uv venv venv --python cpython-3.10.18-windows-x86_64-none   
+uv add <package_name>
+uv add -r requirements.txt
+
+streamlit run <python filename>
 
 git config --global user.name "vivekchandan73"
 git config --global user.email "vivekchandan73@gmail.com"
+
+for accessing datastax - https://accounts.datastax.com/session-service/v1/login
+
+Vector db comparision - https://superlinked.com/vector-db-comparison
+
+
+
